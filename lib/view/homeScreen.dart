@@ -39,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
         initialIndex: 0,
         lastPage: Container(
           color: Colors.white,
-          child: const Center(child: Text('Last Page!')),
+          child: const Center(child: Text('Reached Last Page!')),
         ),
         children: [
           for (var i = 0; i < memeUrls.length; i++)
