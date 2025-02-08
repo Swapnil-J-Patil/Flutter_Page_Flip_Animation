@@ -1,6 +1,6 @@
 # newptoject
 
-A new Flutter project.
+A new Flutter project.Explore hilarious memes. 
 
 ## Getting Started
 
