@@ -1,16 +1,20 @@
-# newptoject
+# 📖 Flutter Page Flip Animation with Meme API  
 
-A new Flutter project.Explore hilarious memes. 
+## 🚀 About the Project  
+This is a Flutter-based project featuring a **smooth page flip animation** combined with a **Meme API** to fetch and display dynamic memes. It utilizes Flutter's **Future class** to handle asynchronous data fetching, ensuring a seamless and interactive experience.  
 
-## Getting Started
+## ✨ Features  
+- 📄 **Realistic Page Flip Animation** using `page_flip` library  
+- 🎭 **Meme API Integration** for fetching random memes  
+- ⏳ **Future Class Implementation** for async data handling  
+- 🎨 **Clean & Minimal UI**  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack  
+- **Flutter** (Dart)  
+- **Meme API** for fetching memes  
+- **Page_Flip Library** for page flip animation  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Demo  
+Check out the video demo here:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/12b7cbfa-6872-4b4a-b13e-efb52ede481b
